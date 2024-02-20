@@ -239,3 +239,32 @@ figcaption, footer, #contact p{
 	color: #fff;
 	font-weight: bold;
 }
+input{
+	width: 485px;
+	height: 30px;
+}
+label{
+	padding: 10px;
+}
+input::placeholder{
+	color:#007d7b;
+	font-weight: bold;
+}
+input[type="submit"]{
+	background-color: #007d7b;
+	color: #fff;
+	font-weight: bold;
+	margin: 30px;
+	width: 300px;
+	height: 40px;
+	border-radius: 15px;
+}
+div{
+	text-align: center;
+}
+footer{
+	background-color: #000;
+}
+footer p{
+	color: #fff;
+}
