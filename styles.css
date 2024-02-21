@@ -355,6 +355,9 @@ footer p{
 	input{
 		width: 880px;
 	}
+	input[type="submit"]{
+		width: 500px;
+	}
 }
 @media screen and (min-width: 1300px){
 	body{
@@ -392,7 +395,7 @@ footer p{
 	#Hawaii{
 		display: inline-block;
 		position: absolute;
-		top: 980px;
+		top: 680px;
 	}
 	#Iran{
 		display: inline-block;
@@ -402,44 +405,47 @@ footer p{
 	#Ireland{
 		display: inline-block;
 		position: absolute;
-		top: 1400px;
+		top: 745px;
 	}
 	#Italy{
 		display: inline-block;
 		position: absolute;
-		top: 1985px;
+		top: 1330px;
 	}
 	#Moab{
 		display: inline-block;
 		position: absolute;
-		top: 2280px;
+		top: 1630px;
 	}
 	#Rocky{
 		display: inline-block;
 		position: absolute;
-		top: 2045px;
+		top: 1400px;
 	}
 	#Switzerland{
 		display: inline-block;
 		position: absolute;
-		top: 2345px;
+		top: 1400px;
 	}
 	#UK{
 		display: inline-block;
 		position: absolute;
-		top: 2345px;
+		top: 1700px;
 	}
 	#USA{
 		display: inline-block;
 		position: absolute;
-		top: 2645px;
+		top: 1700px;
 	}
 	#Wyoming{
 		display: inline-block;
 		position: absolute;
-		top: 2645px;
+		top: 1700px;
 	}
 	input{
 		width: 1300px;
+	}
+	input[type="submit"]{
+		width: 800px;
 	}
 }
